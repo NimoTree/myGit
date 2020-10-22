@@ -1,4 +1,4 @@
-https://leetcode-cn.com/problems/long-pressed-name/submissions/
+//https://leetcode-cn.com/problems/long-pressed-name/submissions/
 // 925. 长按键入    leetcode-925
 /**
  * @param {string} name
