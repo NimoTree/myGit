@@ -3,6 +3,6 @@
 var maxDepth = function(root) {
     if(!root) return 0;
     let lDepth = maxDepth(root.left),
-         rDepth = maxDepth(root.right);
+        rDepth = maxDepth(root.right);
     return Math.max(lDepth,rDepth)+1
 };
